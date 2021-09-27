@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611492741571",
+    "project_id": "proygrad-ecd62",
+    "storage_bucket": "proygrad-ecd62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611492741571:android:ab974d694c2ca4ea6bfd76",
+        "android_client_info": {
+          "package_name": "com.proygrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611492741571-h432mlpcpbqdactrrqet3ikdivacn4v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiCq_Dv3Uf0gdBLA2GPPKCzk2ehn0g1p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611492741571-h432mlpcpbqdactrrqet3ikdivacn4v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
